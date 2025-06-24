@@ -2,7 +2,7 @@
 
 A modern web application built with Next.js for managing access control requests and approvals within an organization.
 
-![Access Control Portal](public/logo.png)
+![Access Control Portal](public/images/reallogo.png)
 
 ## Features
 
