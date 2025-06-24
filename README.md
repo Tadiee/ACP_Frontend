@@ -1,8 +1,10 @@
-# Access Control Portal (Frontend)
-
-A modern web application built with Next.js for managing access control requests and approvals within an organization.
-
-![Access Control Portal](public/images/reallogo.png)
+<div style="display: flex; align-items: center; gap: 20px;">
+  <img src="public/images/reallogo.png" alt="Access Control Portal" width="100" />
+  <div>
+    <h1>Access Control Portal (Frontend)</h1>
+    <p>A modern web application built with Next.js for managing access control requests and approvals within an organization.</p>
+  </div>
+</div>
 
 ## Features
 
