@@ -1,10 +1,8 @@
-<div style="display: flex; align-items: center; gap: 20px;">
-  <img src="public/images/reallogo.png" alt="Access Control Portal" width="100" />
-  <div>
-    <h1>Access Control Portal (Frontend)</h1>
-    <p>A modern web application built with Next.js for managing access control requests and approvals within an organization.</p>
-  </div>
+<div style="display: flex; align-items: center; gap: 20px; margin-bottom: 10px;">
+  <img src="public/images/reallogo.png" alt="Access Control Portal" width="80" style="vertical-align: middle;" />
+  <h1 style="margin: 0; display: inline-block; vertical-align: middle;">Access Control Portal (Frontend)</h1>
 </div>
+<p style="margin-top: 0;">A modern web application built with Next.js for managing access control requests and approvals within an organization.</p>
 
 ## Features
 
